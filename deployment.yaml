@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: hello
-        image: jiajiac/go-web-hello-world2
+        image: jiajiac/go-web-hello-world
         
 
 
